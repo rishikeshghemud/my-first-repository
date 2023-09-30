@@ -1,0 +1,6 @@
+
+hello 
+this is my first commit
+date:30/09/2023
+lets finish this quickly
+
